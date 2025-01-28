@@ -1,5 +1,7 @@
 {
   "name": "task-management",
+  "homepage": "https://kavinesh-sekar.github.io/CI-CD/",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
