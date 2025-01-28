@@ -6,7 +6,7 @@ import DashBoardPage from './Pages/DashBoardPage';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/CI-CD">
       <Routes>
         <Route path="/" element={<LoginPage />} />
         <Route path="/signup" element={<SignUp />} />
